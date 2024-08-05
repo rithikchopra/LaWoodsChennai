@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lawoodshotel.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/Tourist_Attraction.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/Hospitals.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/Foreign_Concierge.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/Travel_hub.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/The_City.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lawoodshotel.com/contact.html</loc>
+    <priority>0.5</priority>
+  </url>
+</urlset>
